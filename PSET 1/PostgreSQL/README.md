@@ -23,7 +23,7 @@ Caso você goste ou queira, é possível ler o arquivo do script! ele está come
 4. Assim que você colar ele pedirá uma permissão e você deve permitir.
 5. Quando for permitido, ele automaticamente começará a rodar o script, assim que terminar, de um refresh em 'databases' e pronto.
 
-Ao final ele deve aparecer desta forma:
+Ao final ele deve aparecer desta forma: <br>
 ![](../etc/imagens%20md/psql_script.png)
 
 ---
