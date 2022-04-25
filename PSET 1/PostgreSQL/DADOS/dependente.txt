@@ -1,0 +1,15 @@
+insert into elmasri.dependente (cpf_funcionario,nome_dependente,sexo,data_nascimento,parentesco)
+
+values(33344555587,'Alicia','F','1986-04-05','Filha');
+
+values(33344555587,'Tiago','M','1983-10-25','Filho');
+
+values(33344555587,'Janaína','F','1958-05-03','Esposa');
+
+values(98765432168,'Antonio','M','1942-02-28','Marido');
+
+values(12345678966,'Michel','M','1988-01-04','Filho');
+
+values(12345678966,'Alicia','F','1988-12-30','Filha');
+
+values(12345678966,'Elizabeth','F','1967-05-05','Esposa');

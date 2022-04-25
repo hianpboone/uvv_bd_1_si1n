@@ -1,0 +1,6 @@
+insert into localizacoes_departamento (numero_departamento,local)
+values ('1','São Paulo'),
+('4','Mauá'),
+('5','Itu'),
+('5','Santo André'),
+('5','São Paulo');

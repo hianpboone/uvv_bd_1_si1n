@@ -1,0 +1,11 @@
+insert into elmasri.localizacoes_departamento (numero_departamento,local)
+
+values (1,'São Paulo');
+
+values (4,'Mauá');
+
+values (5,'Itu');
+
+values (5,'Santo André');
+
+values (5,'São Paulo');

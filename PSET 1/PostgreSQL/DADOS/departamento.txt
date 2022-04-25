@@ -1,0 +1,7 @@
+﻿insert into elmasri.departamento (nome_departamento,numero_departamento,cpf_gerente,data_inicio_gerente)
+
+values ('Pesquisa',5,33344555587,'1988-05-22');
+
+values ('Administração',4,98765432168,'1995-01-01');
+
+values ('Matriz',1,88866555576,'1981-06-19');

@@ -1,0 +1,13 @@
+insert into elmasri.projeto (nome_projeto,numero_projeto,local_projeto,numero_departamento)
+
+values ('ProdutoX',1,'Santo André',5);
+
+values ('ProdutoY',2,'Itu',5);
+
+values ('ProdutoZ',3,'São Paulo',5);
+
+values ('Informatização',10,'Mauá',4);
+
+values ('Reorganização',20,'São Paulo',1);
+
+values ('Novosbenefícios',30,'Mauá',4);
