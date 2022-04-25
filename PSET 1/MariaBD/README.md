@@ -23,10 +23,10 @@ Caso você goste ou queira, é possível ler o arquivo do script! ele está come
 4. Assim que você abrir-lo, você deve executar, utilize as teclas Alt+X que irá executar automaticamente.
 5. De um refresh no banco de dados e pronto.
 
-Ao final ele deve aparecer desta forma:
+Ao final ele deve aparecer desta forma: <br>
 ![](../etc/imagens%20md/mdb_script.png)
 
-SQL EDITOR > IMPORT SQL SCRIPT:
+SQL EDITOR > IMPORT SQL SCRIPT: <br>
 ![](../etc/imagens%20md/mdb_script_2.png)
 
 ---
