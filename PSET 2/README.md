@@ -202,7 +202,7 @@ LEFT OUTER JOIN projeto c ON (b.numero_departamento = c.numero_departamento);
 
 ## CONCLUSÃO
 
-Achei este segundo PSET mais tranquilo do primeiro, tive um pouco de dificuldade no começo mas ao final já estava sabendo fazer tranquilamente, acredito que agora já possuo autonomia o suficiente para fazer os meus próprios comandos ```select```.
+Achei este segundo PSET mais tranquilo do que o primeiro, tive um pouco de dificuldade no começo mas ao final já estava sabendo fazer tranquilamente, acredito que agora já possuo autonomia o suficiente para fazer os meus próprios comandos ```select```.
 
 ###### Tive que refazer 3 vezes esse Pset pois tive problemas com a Máquina Virtal (que fechou com todos os meus scripts enquanto estava fazendo) e com o GitHub (fui fazer o upload e apertei algo errado e ele deletou todos os meus arquivos) 😢😢😢
 
